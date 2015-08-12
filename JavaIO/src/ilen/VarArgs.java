@@ -13,7 +13,6 @@ public class VarArgs {
 		for(double x : a)
 			sum+=x;
 		return sum/n;
-			
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
