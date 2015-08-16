@@ -1,4 +1,4 @@
-package ilen;
+package ilentt.ilenlab.com.varargs;
 
 public class VarArgs {
 	 
